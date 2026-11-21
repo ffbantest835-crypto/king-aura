@@ -22,8 +22,8 @@ API_ID = int(os.getenv("API_ID", "38746329"))
 API_HASH = os.getenv("API_HASH", "dc6d3dd0de462ed07952a64c3253c437")
 
 # REAL TOP OWNER
-OWNER_ID = 6367783103
-OWNER_USERNAME = "@KingRGotAura"
+OWNER_ID = 8937986665
+OWNER_USERNAME = "@QueenGenalpha"
 TARGET_MAIL_BOT = "fakemailbot"
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
